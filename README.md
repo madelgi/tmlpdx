@@ -2,7 +2,7 @@
 
 A type inference engine for ML supporting int, boolean, function, pair, and list
 types, and also let-bounded polymorphism. Much of the included code was provided by
-[Jim Fix](https://www.people.reed.edu/~jimfix/).
+[Jim Fix](http://www.people.reed.edu/~jimfix/).
 
 ## About
 
